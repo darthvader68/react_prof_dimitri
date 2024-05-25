@@ -1,0 +1,40 @@
+SEQUENCIA PARA ABRIR PROJETO NO REACT
+video_dimitri: https://www.youtube.com/watch?v=hd2B7XQAFls&t=213s
+
+Vai na pasta react no disco C;
+copia o link da pasta (C:\react);
+abre o cmd e procede conforme abaixo:
+
+C:\Users\MILTON>cd C:\react
+
+C:\react>npm create vite@latest projeto2 -- --template react
+
+Scaffolding project in C:\react\projeto2...
+
+Done. Now run:
+
+  cd projeto2
+  npm install
+  npm run dev
+
+
+C:\react>cd projeto2
+
+C:\react\projeto2>code . (abre o vs code)
+
+C:\react\projeto2>
+
+no vs code, digita ctrl' para abrir o terminal,
+e usá-lo em vez do cmd.
+
+no terminal digita:
+C:\react\projeto2>npm instal (para instalar todas as dependencias do react junto com o vite)
+para rodar o projeto digita:
+C:\react\projeto2>npm run dev
+
+quando abrir o projeto, clicar no endereço apertando ctrl para abrir a pagina no navegador
+  VITE v4.4.9  ready in 3750 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h to show help

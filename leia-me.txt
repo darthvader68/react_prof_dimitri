@@ -1,0 +1,3 @@
+para funcionar o react:
+
+colar a pasta 'react' no disco C
